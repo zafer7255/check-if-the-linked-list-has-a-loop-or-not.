@@ -1,1 +1,0 @@
-# check-if-the-linked-list-has-a-loop-or-not.
